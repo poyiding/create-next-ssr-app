@@ -10,7 +10,10 @@
 * 支持路由切换顶部loading-bar加载
 
 ### 使用
-yarn or npm 
-- - - - - - -
+
+```
+yarn or npm 安装启动
+比如：
 yarn add
 yarn run dev
+````
