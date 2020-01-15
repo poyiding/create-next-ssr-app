@@ -1,5 +1,5 @@
 {
-  "name": "next-app",
+  "name": "next-ssr-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +7,11 @@
     "build": "next build",
     "start": "next start"
   },
+  "keywords": [
+    "next",
+    "ssr",
+    "react-ssr",
+  ],
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.26.4",
