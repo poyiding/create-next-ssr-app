@@ -1,0 +1,4 @@
+/*
+* 建这个空的css文件是为了解决 next.js 跳转页面刷新后不能回退的bug
+* https://github.com/zeit/next-plugins/issues/282#issuecomment-426752008
+*/
